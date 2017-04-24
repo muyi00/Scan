@@ -173,6 +173,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
 	}
 
 	/**
+	 *
 	 * A valid barcode has been found, so give an indication of success and show
 	 * the results.
 	 * 
